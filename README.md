@@ -123,7 +123,7 @@ This project is for academic and research purposes only. Do not use in critical 
 ## 📘 Additional Resources
 
 For a complete explanation of the methodology, results, diagrams, and analysis,  
-📄 **[Click here to view the full project report](./TrueeTone_Project_Report.pdf)**
+📄 **[Click here to view the full project report](https://github.com/dhruvakashyap73/TrueeTone/blob/main/Project_Report.pdf)**
 
 
 ---
