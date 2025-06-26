@@ -108,7 +108,7 @@ TrueeTone successfully demonstrates that AI-generated audio can be detected usin
 ## 👨‍💻 Author
 
 **Dhruva Kashyap**  
-B.E Graduate from BNMIT, Bengaluru  
+B.E graduate from BNMIT, 
 Email: dhruvakashyap73@gmail.com
 
 ---
