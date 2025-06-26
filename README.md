@@ -105,5 +105,26 @@ TrueeTone successfully demonstrates that AI-generated audio can be detected usin
 
 ---
 
-## 📂 Project Structure
+## 👨‍💻 Author
+
+**Dhruva Kashyap**  
+B.E Graduate from BNMIT, Bengaluru  
+Email: dhruvakashyap73@gmail.com
+
+---
+
+## 📜 License
+
+This project is for academic and research purposes only. Do not use in critical systems without proper validation.
+
+---
+
+
+## 📘 Additional Resources
+
+For a complete explanation of the methodology, results, diagrams, and analysis,  
+📄 **[Click here to view the full project report](./TrueeTone_Project_Report.pdf)**
+
+
+---
 
