@@ -1,7 +1,4 @@
-
-         "TrueeTone" Navigation Guide
-
-
+# TrueeTone- Navigation Guide
 Project Title: TrueeTone - Audio Authenticity Detection
 Purpose: Detect whether an audio file is Human (Real) or AI-generated (Fake)
 
