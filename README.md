@@ -118,8 +118,8 @@ The dataset used in this project (containing both real and AI-generated audio sa
 ## 👨‍💻 Author
 
 **Dhruva Kashyap**  
-B.E graduate from BNMIT, 
-Email: dhruvakashyap73@gmail.com
+Engineering graduate from BNMIT,<br> 
+dhruvakashyap73@gmail.com
 
 ---
 
