@@ -115,14 +115,6 @@ The dataset used in this project (containing both real and AI-generated audio sa
 
 ---
 
-## 👨‍💻 Author
-
-**Dhruva Kashyap**  
-Engineering graduate from BNMIT,<br> 
-dhruvakashyap73@gmail.com
-
----
-
 ## 📜 License
 
 This project is for academic and research purposes only. Do not use in critical systems without proper validation.
@@ -135,6 +127,14 @@ This project is for academic and research purposes only. Do not use in critical 
 For a complete explanation of the methodology, results, diagrams, and analysis,  
 📄 **[Click here to view the full project report](https://github.com/dhruvakashyap73/TrueeTone/blob/main/Project_Report.pdf)**
 
+
+---
+
+
+## 👨‍💻 Author
+
+**Dhruva Kashyap**  
+Engineering graduate from BNMIT,<br> 
 
 ---
 
