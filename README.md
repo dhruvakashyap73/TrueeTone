@@ -1,4 +1,9 @@
-# 🎙️ TrueeTone: Audio Authenticity Detection System
+<p align="center">
+  <img src="https://github.com/dhruvakashyap73/TrueeTone/blob/main/Training/Images/Logo-TrueeTone.png" alt="Logo" width="120" height="120">
+</p>
+
+---
+<h1 align="center"><strong>🎙️ TrueeTone: Audio Authenticity Detection System</strong></h1>
 
 TrueeTone is an AI-powered audio authenticity detection system designed to identify whether an uploaded or recorded audio is **AI-generated (Fake)** or **Human-generated (Real)**. It combines multiple machine learning models, advanced feature extraction techniques, and a clean Streamlit interface to provide a reliable and user-friendly verification tool.
 
