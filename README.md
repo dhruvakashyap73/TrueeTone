@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dhruvakashyap73/TrueeTone/blob/main/Training/Images/Logo-TT.png" alt="Logo" width="120" height="120">
+  <img src="https://github.com/dhruvakashyap73/TrueeTone/blob/main/Training/Images/Logo-TT.png" alt="Logo" width="220" height="220">
 </p>
 
 <h3 align="center"><strong>TrueeTone: Audio Authenticity Detection System</strong></h3>
